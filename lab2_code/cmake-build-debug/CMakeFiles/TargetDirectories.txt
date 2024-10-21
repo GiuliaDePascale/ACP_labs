@@ -1,0 +1,3 @@
+/Users/giuliadepascale/CLionProjects/lab2_code/cmake-build-debug/CMakeFiles/social_network_initial.dir
+/Users/giuliadepascale/CLionProjects/lab2_code/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/giuliadepascale/CLionProjects/lab2_code/cmake-build-debug/CMakeFiles/rebuild_cache.dir
