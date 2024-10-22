@@ -24,6 +24,7 @@ int main() {
   social_network.AddUser("Sara", "Greco");
 
   social_network.AddFriendship("Alessandra", "Romano", "Giulia", "Russo");
+  std::cout<<"ciao"<<std::endl;
   social_network.AddFriendship("Giulia", "Russo", "Alessandra", "Romano");
   social_network.AddFriendship("Giulia", "Russo", "Marco", "Ferrari");
   social_network.AddFriendship("Matteo", "Bianchi", "Davide", "Colombo");
