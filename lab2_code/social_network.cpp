@@ -34,6 +34,8 @@ void SocialNetwork::AddUser(const std::string &name,
   }else {
     std::cout<<"Account già esistente"<<std::endl;
   }
+  std::vector<size_t> indices;
+  friends.push_back(indices);
 }
 
 const std::vector<User> SocialNetwork::CGetUsers() const {
